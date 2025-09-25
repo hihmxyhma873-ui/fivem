@@ -1,4 +1,4 @@
----
+void ACTIVATE_TIMECYCLE_EDITOR();
 ns: CFX
 apiset: client
 ---
